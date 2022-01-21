@@ -1,0 +1,6 @@
+.quote-list {
+    display: inline-flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 70%;
+}
